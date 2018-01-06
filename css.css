@@ -1,0 +1,29 @@
+h1 {
+  margin-bottom: 50px;
+}
+
+.buttons {
+  margin-bottom: 50px;
+}
+
+.alert {
+  margin-top: 10px;
+}
+
+.align-left {
+  text-align: left;
+}
+
+#exampleSelect1 {
+  margin: 0 auto;
+  width: 50px;
+  margin-top: 2px;
+}
+
+.exampleSelect1 {
+  margin-bottom: 20px;
+}
+
+#visible {
+  display: none;
+}
